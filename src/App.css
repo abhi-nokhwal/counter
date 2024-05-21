@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heading {
+  color: white;
+  font-size: 60px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 3%;
+}
+#h {
+  margin-top: 5%;
+  font-size: 50px;
+  text-align: center;
+}
+.btn1 {
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  padding: 15px 30px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.btn2 {
+  background-color: red;
+  color: white;
+  margin-left: 13%;
+  border-radius: 10px;
+  padding: 15px 30px;
+  font-size: 20px;
+  text-align: center;
+}
+.wrapper {
+  width: 70%;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3%;
+}
+.container {
+  height: 250px;
+  width: 500px;
+  border: 2px solid black;
+  margin: 0 auto;
+  margin-top: 3%;
+  justify-content: center;
+  align-items: center;
+  background-color: greenyellow;
+}
+.hari {
+  color: green;
+}
+.laal {
+  color: red;
+}
+body {
+  background-color: blue;
+}
+.baseclass {
+  color: rgb(25, 65, 198);
+}
+.p {
+  margin-top: 3%;
+  color: blue;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 700;
+}
